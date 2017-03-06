@@ -1,0 +1,75 @@
+
+/*set the font family and size to entire html document*/
+html {
+	background-color: #777;
+	font-size: 18px;
+	font-family: 'arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header {
+	background-color: #ebebeb;
+	width: 960px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+nav {
+	background-color: #ebebeb;
+	width: 960px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+}
+
+aside {
+	background-color: #ebebeb;
+	text-align: center;
+	width: 455px;
+	float: right;
+	height: 270px;
+	margin-right: 15px;
+	padding-top: 20px;
+}
+
+section {
+	background-color: #ebebeb;
+	width: 495px;
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+article {
+	background-color: #777;
+	padding: 10px;
+	margin-top: 20px;
+
+}
+
+.h123 {
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-bottom: 10px;
+}
+
+.p {
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-top: 10px;
+}
+
+
+
+footer {
+	background-color: #ebebeb;
+	width: 960px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+	clear: both;
+
+}
