@@ -2,6 +2,7 @@
 /*set the font family and size to entire html document*/
 html {
 	background-color: #777;
+	color: #777;
 	font-size: 18px;
 	font-family: 'arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
@@ -46,6 +47,7 @@ article {
 	background-color: #777;
 	padding: 10px;
 	margin-top: 20px;
+	color: white;
 
 }
 
@@ -53,12 +55,14 @@ article {
 	background-color: #ebebeb;
 	padding: 20px;
 	margin-bottom: 10px;
+	color: #777;
 }
 
 .p {
 	background-color: #ebebeb;
 	padding: 20px;
 	margin-top: 10px;
+	color: #777;
 }
 
 
